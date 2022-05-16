@@ -1,6 +1,6 @@
 ## Oie, eu sou a Ju Barboza
-- 📖Esudando lógica de programação, HTML e CSS
-- ✨Inicei meus estudos em 2022
+- 🎲 estudante de análise e desenvolvimento de sistemas
+- ✨ atualmente estudando lógica de programação, java, html e css
 
 <div align="center">
   <a href="https://github.com/JuBarboza">
