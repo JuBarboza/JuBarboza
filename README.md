@@ -1,6 +1,6 @@
-### Oie, eu sou a Ju Barboza
-📖Esudando lógica de programação, HTML e CSS
-✨No momento estudo para me tornar dev front end
+## Oie, eu sou a Ju Barboza
+- 📖Esudando lógica de programação, HTML e CSS
+- ✨Inicei meus estudos em 2022
 
 <div align="center">
   <a href="https://github.com/JuBarboza">
